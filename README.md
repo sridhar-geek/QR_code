@@ -20,8 +20,8 @@ Frontend Mentor have numerous challenges to help improve coding skills by buildi
 
 ### Links
 
-- GitHub URL: [Add solution URL here](https://your-solution-url.com)
-- Site URL: [Add live site URL here](https://your-live-site-url.com)
+- GitHub URL: [Code](https://github.com/sridhar-geek/QR_code)
+- Site URL: [Demo](https://sridhar-geek.github.io/QR_code/)
 
 
 ### Built with
@@ -34,7 +34,7 @@ Frontend Mentor have numerous challenges to help improve coding skills by buildi
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@sridhar-geek](https://www.frontendmentor.io/profile/sridhar-geek)
 
 
 ## Acknowledgments
